@@ -1,0 +1,22 @@
+virtualizationType,clientthreads,latency,throughput,efficiency
+Baremetal,1,2.91,29.8,100
+Container,1,2.56,33.9,113.42
+Virtual Machine,1,5.2,16.7,56.04
+Baremetal,2,2.96,58.7,100
+Container,2,2.6,65.3,111.23
+Virtual Machine,2,3.87,47.0,80.15
+Baremetal,4,3.34,104,100
+Container,4,4.5,58.5,56.25
+Virtual Machine,4,3.31,94.0,90.38
+Baremetal,8,3.71,188,100
+Container,8,9.33,57.0,30.32
+Virtual Machine,8,7.6,82.7,43.99
+Baremetal,16,9.23,236,100
+Container,16,23.27,70.2,29.75
+Virtual Machine,16,12.97,79.3,33.64
+Baremetal,32,10.5,261,100
+Container,32,32.68,67.3,25.81
+Virtual Machine,32,29.7,74.5,28.58
+Baremetal,64,14.9,275,100
+Container,64,75.03,70.5,25.64
+Virtual Machine,64,57.1,74.6,27.09
